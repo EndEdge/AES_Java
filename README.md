@@ -1,2 +1,2 @@
 # AES_Java
-Using Java to implement a full process of AES encryption algorithm
+Using Java to implement full detial process of AES encryption algorithm
